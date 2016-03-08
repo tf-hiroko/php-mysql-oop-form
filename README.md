@@ -1,6 +1,6 @@
 ## PHP MySQL Object Oriented Form
 
-This is a sweepstakes form which shows in a confirmation page in teleflora.com e-commerce site. It was coded by PHP/MySQL and used mysqli API to connect MySQL. 
+This is a sweepstakes form which shows in a confirmation page in e-commerce site. It was coded by PHP/MySQL and used mysqli API to connect MySQL. 
 
 ## Technologies
 Front-End
