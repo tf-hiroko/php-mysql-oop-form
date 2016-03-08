@@ -7,7 +7,7 @@ Front-End
 - HTML5
 - CSS3
 - JavaScript form validation
-- jQuery UI
+- [jQuery UI](https://jqueryui.com/dialog/)
 - [jQuery masked input](http://digitalbush.com/projects/masked-input-plugin/)
 - Bootstrap
 
