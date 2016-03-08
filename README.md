@@ -18,8 +18,6 @@ Back-end
 
 ## Develpment environment
 - Mac OS X Yosemite 10.10
-- PHP 5.5.14
-- PHP Extension: mysqli
 - Apache 2.4.9 
 - phpMyAdmin 4.5.2
 
