@@ -12,7 +12,7 @@ Front-End
 
 Back-end
 - PHP 5.5.14
-- mysqli
+- [mysqli](http://php.net/manual/en/mysqlinfo.api.choosing.php)
 - MySQL 5.0.11
 
 ## Develpment environment
