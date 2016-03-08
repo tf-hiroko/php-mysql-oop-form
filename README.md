@@ -9,7 +9,7 @@ Front-End
 - JavaScript form validation
 - [jQuery UI](https://jqueryui.com/dialog/)
 - [jQuery masked input](http://digitalbush.com/projects/masked-input-plugin/)
-- Bootstrap
+- [Bootstrap 3](http://getbootstrap.com/)
 
 Back-end
 - PHP 5.5.14
